@@ -5,7 +5,7 @@ export type Github = {
 };
 
 export const github: Github = {
-  name: "Marcos Kuchak",
-  owner: "mkuchak",
-  repo: "blog",
+  name: "brite",
+  owner: "briteming",
+  repo: "mb",
 };
